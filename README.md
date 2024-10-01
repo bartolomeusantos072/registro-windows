@@ -28,3 +28,6 @@ Crie um novo valor DWORD chamado NoLockScreen e defina como 1.
 
 Caminho: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes
 Altere o valor AppsUseLightTheme para 0.
+
+# correcoes no window 10:
+https://answers.microsoft.com/pt-br/windows/forum/all/melhorar-desempenho-do-computador-com-o-windows-10/2e17a67e-1e9e-4b45-b8bf-415163f602c9
