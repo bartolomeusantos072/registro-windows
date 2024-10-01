@@ -1,0 +1,2 @@
+# registro-windows
+registro windows
