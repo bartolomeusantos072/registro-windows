@@ -31,3 +31,6 @@ Altere o valor AppsUseLightTheme para 0.
 
 # correcoes no window 10:
 https://answers.microsoft.com/pt-br/windows/forum/all/melhorar-desempenho-do-computador-com-o-windows-10/2e17a67e-1e9e-4b45-b8bf-415163f602c9
+
+faça download:
+https://lira.epac.to/DOCS-TECH/Sistemi%20Operativi/Windows/Microsoft%20Windows%20Registry%20Guide%20-%202nd%20Edition%20(2005).pdf
