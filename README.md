@@ -34,3 +34,6 @@ https://answers.microsoft.com/pt-br/windows/forum/all/melhorar-desempenho-do-com
 
 faça download:
 https://lira.epac.to/DOCS-TECH/Sistemi%20Operativi/Windows/Microsoft%20Windows%20Registry%20Guide%20-%202nd%20Edition%20(2005).pdf
+
+verficar o que inicializa no pc: 
+https://www.conectadores.com.br/tutoriais/dicas-windows/inicializacao-windows
